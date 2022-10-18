@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kzt-currency/static/css/main.17d526a2.css",
+    "main.js": "/kzt-currency/static/js/main.f2997477.js",
+    "static/js/787.0ad16a9a.chunk.js": "/kzt-currency/static/js/787.0ad16a9a.chunk.js",
+    "index.html": "/kzt-currency/index.html",
+    "main.17d526a2.css.map": "/kzt-currency/static/css/main.17d526a2.css.map",
+    "main.f2997477.js.map": "/kzt-currency/static/js/main.f2997477.js.map",
+    "787.0ad16a9a.chunk.js.map": "/kzt-currency/static/js/787.0ad16a9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17d526a2.css",
+    "static/js/main.f2997477.js"
+  ]
+}
